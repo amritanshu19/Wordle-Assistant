@@ -1,5 +1,5 @@
 # Wordle-Assistant
-A wordle Assiant which helps you get the answers by entering the date or gives you hints based upon the charcters of the word you know
+A wordle Assistant which helps you get the answers by entering the date or gives you hints based upon the charcters of the word you know
 Source site: *https://www.powerlanguage.co.uk/wordle/*
 
 
