@@ -1,5 +1,5 @@
 # Wordle-Assistant
-A wordle Assistant which helps you get the answers by entering the date or gives you hints based upon the characters of the word you know
+A wordle Assistant which helps you get the answers by entering the date or gives you hints as it sorts the possible answers and hence reduces the number of possible answers based upon the characters of the word you know
 Source site: *https://www.powerlanguage.co.uk/wordle/*
 
 
@@ -14,6 +14,6 @@ Wardle added, “If you’ve followed along with the story of Wordle, you’ll k
 The wordle.py file contains the code of the programme which gives you the answer based upon the date you enter.
 The hint.py file contains the code of the programme will give you hints based open option reduction based upon the character and it's position you enter that you know.
 
-The list La contains all possible answers which i got from the source code on the site https://www.powerlanguage.co.uk/wordle/.
-You can also see the all possible answers in the source code. To see all possible answers look at the screensjot given below:
+The list La contains all possible answers which i obtained from the source code on the original wordle site https://www.powerlanguage.co.uk/wordle/.
+You can also see the all possible answers in the source code. To see all possible answers look at the screenshot given below:
 ![image](https://user-images.githubusercontent.com/83136054/153041420-d2e97437-872c-4daf-b49b-af7164751cca.png)
